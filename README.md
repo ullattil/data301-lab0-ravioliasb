@@ -6,6 +6,6 @@ For this lab, you will need to open lab0.ipynb in a Jupyterlab session and follo
 
 ## Feedback on this Lab
 
-**How many hours did you spend on this lab?** [Replace this text with a number] hours.
+**How many hours did you spend on this lab?** [3] hours.
 
-**Comments**: What did you learn in this lab? This answer is not graded and is for course improvement purposes.
+**Comments**: I learned about the terminal and how to use Github
